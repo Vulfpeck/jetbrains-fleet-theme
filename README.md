@@ -7,3 +7,11 @@ Features everything from the Fleet theme created here - https://marketplace.visu
 - Highlight color
 - Updated command palette theme 
 - Updated context menu colors 
+
+![Theme Screenshot](./1.png)
+
+![Theme Screenshot](./2.png)
+
+![Theme Screenshot](./3.png)
+
+![Theme Screenshot](./4.png)

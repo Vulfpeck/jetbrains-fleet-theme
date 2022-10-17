@@ -10,6 +10,10 @@
     "Themes"
   ],
   "publisher": "vulfpeck",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vulfpeck/jetbrains-fleet-theme.git"
+  },
   "contributes": {
     "themes": [
       {
