@@ -2,6 +2,7 @@
   "name": "jetbrains-fleet-theme",
   "displayName": "Jetbrains Fleet Theme",
   "description": "A theme based off of Jetbrains' Fleet editor",
+  "icon": "logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
