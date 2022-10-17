@@ -1,0 +1,22 @@
+{
+  "name": "jetbrains-fleet-theme",
+  "displayName": "Jetbrains Fleet Theme",
+  "description": "A theme based off of Jetbrains' Fleet editor",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "vulfpeck",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jetbrains Fleet ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jetbrains Fleet -color-theme.json"
+      }
+    ]
+  }
+}
