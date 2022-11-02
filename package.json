@@ -3,7 +3,7 @@
   "displayName": "Jetbrains Fleet Theme",
   "description": "A theme based off of Jetbrains' Fleet editor",
   "icon": "logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
