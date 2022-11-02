@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jetbrains Fleet ",
+        "label": "Jetbrains Fleet",
         "uiTheme": "vs-dark",
-        "path": "./themes/Jetbrains Fleet -color-theme.json"
+        "path": "./themes/Dark -color-theme.json"
+      },
+      {
+        "label": "Jetbrains Fleet Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple -color-theme.json"
       }
     ]
   }
