@@ -8,10 +8,13 @@ Features everything from the Fleet theme created here - https://marketplace.visu
 - Updated command palette theme 
 - Updated context menu colors 
 
-![Theme Screenshot](./1.png)
 
-![Theme Screenshot](./2.png)
+#### Dark Color Scheme
+![Dark Screenshot](./dark.png)
 
-![Theme Screenshot](./3.png)
 
-![Theme Screenshot](./4.png)
+#### Purple Color Scheme
+![Purple Screenshot](./purple.png)
+
+
+- No light themes because the fleet light themes are a low contrast mess
